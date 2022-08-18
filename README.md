@@ -2,7 +2,7 @@
 
 📝 **Our Meetup group:** https://www.meetup.com/rladies-paris/
 
-<a href="https://twitter.com/RLadiesParis"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter.png?raw=true"></a> **Twitter:** [@RLadiesParis](https://twitter.com/RLadiesParis)
+<a href="https://twitter.com/RLadiesParis"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter.png?raw=true"></a> [@RLadiesParis](https://twitter.com/RLadiesParis)
 
 We are R-Ladies Paris, a network of R practitioners in Paris. We are a local chapter of a global open source community promoting gender inclusivity among R practitioners and learners, R-Ladies Global.
 
