@@ -14,6 +14,6 @@ Our goals are to provide a supportive and encouraging network for R users who ar
 
 👯 We are always open to collaborate on R-related subjects!
 
-📫 How to reach us: paris@rladies.org
+📫 How to reach out to us: paris@rladies.org
 
 
