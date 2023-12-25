@@ -2,7 +2,7 @@
 
 📝 **Our Meetup group:** https://www.meetup.com/rladies-paris/
 
-<a href="https://mastodon.social/@rladies_paris/"><img height="30" src="https://github.com/rladiesparis/RLadiesParis/blob/main/mastodon.png?raw=true"></a> [@rladies_paris@mastodon.social](https://mastodon.social/@rladies_paris/)
+<a href="https://mastodon.social/@rladies_paris/"><img height="30" src="https://github.com/rladiesparis/RLadiesParis/blob/main/mastodon.png?raw=true"></a> [@rladies_paris](https://mastodon.social/@rladies_paris/)
 
 <a href="[https://www.linkedin.com/company/86712812/](https://www.linkedin.com/company/86712812/)"><img height="30" src="https://github.com/rladiesparis/RLadiesParis/blob/main/linkedin.png?raw=true"></a> [R-Ladies Paris](https://www.linkedin.com/company/86712812/)
 
